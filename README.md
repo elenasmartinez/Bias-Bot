@@ -1,4 +1,4 @@
-# Bias-Bot# Bias Bot Directions
+# Bias Bot Directions
 
 ## Step One
 
